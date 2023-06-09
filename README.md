@@ -1,2 +1,2 @@
 # MoodMagnet
-Media sentiment made simple:  The abilioty to attract and measure sentiment or mood.
+Media sentiment made simple:  Harnessing market sentiment for Financial Forecasting.
