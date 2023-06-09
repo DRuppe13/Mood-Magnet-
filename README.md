@@ -1,2 +1,2 @@
-# Mood-Magnet-
-Media sentiment made simple 
+# MoodMagnet
+Media sentiment made simple:  The abilioty to attract and measure sentiment or mood.
