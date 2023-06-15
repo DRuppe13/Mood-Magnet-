@@ -8,7 +8,7 @@ Welcome to our thrilling project that navigates the intersection of financial se
 ### 🎯 Title
 Financial Sentiment Analysis: Impact of News and Social Media Sentiment on Stock Market
 
-🗂️#️#️#️ ️ Data
+# 🗂️ Data
 We'll gather financial news articles and social media posts related to the stock market from various sources, such as:
 
 - APIs of financial news websites
